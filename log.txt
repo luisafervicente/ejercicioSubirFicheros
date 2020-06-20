@@ -1,0 +1,8 @@
+17:12:04 13-01-2020El usuario:admin,  pass:admin, ha subido el fichero:  
+17:13:29 13-01-2020El usuario:admin,  pass:admin, ha subido el fichero:  
+17:15:37 13-01-2020El usuario:admin,  pass:admin, ha subido el fichero:casa.jpeg  
+17:15:42 13-01-2020El usuario:admin,  pass:admin, ha autorizado a su visualización y descarga el fichero:casa.jpeg  
+17:15:42 13-01-2020El usuario:admin,  pass:admin, ha subido el fichero:  
+14:59:43 14-01-2020El usuario:admin,  pass:admin, ha subido el fichero:mifichero2.odt  
+14:59:50 14-01-2020El usuario:admin,  pass:admin, ha subido el fichero:  
+15:00:56 14-01-2020El usuario:admin,  pass:admin, ha subido el fichero:mifichero2.odt  
